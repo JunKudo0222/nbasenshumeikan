@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>NBA選手名鑑</title>
+        <title>NBA選手名鑑@20200831</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -81,7 +81,7 @@
 
             <div class="content">
                 <a href="{{route('players.index')}}"><div class="title m-b-md">
-                    NBA選手名鑑
+                    NBA選手名鑑@20200831
                 </div></a>
 
                 <div class="links">
